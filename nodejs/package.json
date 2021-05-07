@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "locutus": "^2.0.11",
+    "locutus": "^2.0.12",
     "serialport": "^7.1.5"
   }
 }
